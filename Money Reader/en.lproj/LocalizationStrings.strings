@@ -1,0 +1,11 @@
+/* 
+  LocalizationStrings.strings
+  Money Reader
+
+  Created by Hassan Bhatti on 10/01/2018.
+  Copyright © 2018 Accuretech. All rights reserved.
+*/
+
+"CFBundleDisplayName" = "Money Reader";
+"CFBundleName" = "Money Reader";
+

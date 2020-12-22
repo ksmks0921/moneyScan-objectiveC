@@ -1,0 +1,33 @@
+
+//
+//  PrefixHeader.pch
+//  Money Reader
+//
+//  Created by Muhammad Ahsan on 4/12/17.
+//  Copyright © 2017 Accuretech. All rights reserved.
+//
+
+#ifndef PrefixHeader_pch
+#define PrefixHeader_pch
+
+#ifdef __OBJC__
+
+
+// Include any system framework and library headers here that should be included in all compilation units.
+// You will also need to set the Prefix Header build setting of one or more of your targets to reference this file.
+#import <UIKit/UIKit.h>
+#import <AVFoundation/AVFoundation.h>
+#import "AppDelegate.h"
+
+#define appdelegate \
+((AppDelegate*)[UIApplication sharedApplication].delegate)
+#endif
+
+// check device orientation
+#define dDeviceOrientation [[UIDevice currentDevice] orientation]
+#define isPortrait  UIDeviceOrientationIsPortrait(dDeviceOrientation)
+#define isLandscape UIDeviceOrientationIsLandscape(dDeviceOrientation)
+#define isFaceUp    dDeviceOrientation == UIDeviceOrientationFaceUp   ? YES : NO
+#define isFaceDown  dDeviceOrientation == UIDeviceOrientationFaceDown ? YES : NO
+
+#endif /* PrefixHeader_pch */

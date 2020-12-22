@@ -1,0 +1,54 @@
+
+/* Class = "UISegmentedControl"; 1gc-NV-abH.segmentTitles[0] = "Flash OFF"; ObjectID = "1gc-NV-abH"; */
+"1gc-NV-abH.segmentTitles[0]" = "Flash OFF";
+
+/* Class = "UISegmentedControl"; 1gc-NV-abH.segmentTitles[1] = "Flash ON"; ObjectID = "1gc-NV-abH"; */
+"1gc-NV-abH.segmentTitles[1]" = "Flash ON";
+
+/* Class = "UISegmentedControl"; 1xq-1N-tQB.segmentTitles[0] = "English"; ObjectID = "1xq-1N-tQB"; */
+"1xq-1N-tQB.segmentTitles[0]" = "English";
+
+/* Class = "UISegmentedControl"; 1xq-1N-tQB.segmentTitles[1] = "Arabic"; ObjectID = "1xq-1N-tQB"; */
+"1xq-1N-tQB.segmentTitles[1]" = "Arabic";
+
+/* Class = "UIButton"; normalTitle = "SAVE"; ObjectID = "VgZ-Wv-Srn"; */
+"VgZ-Wv-Srn.normalTitle" = "SAVE";
+
+/* Class = "UITextView"; text = "Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda."; ObjectID = "cIq-rS-v2X"; */
+"cIq-rS-v2X.text" = "Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda.";
+
+/* Class = "UIButton"; normalTitle = "Save"; ObjectID = "cMb-Sa-BbX"; */
+"cMb-Sa-BbX.normalTitle" = "Save";
+
+/* Class = "UISegmentedControl"; ec6-ku-Y4L.segmentTitles[0] = "Primary"; ObjectID = "ec6-ku-Y4L"; */
+"ec6-ku-Y4L.segmentTitles[0]" = "Primary";
+
+/* Class = "UISegmentedControl"; ec6-ku-Y4L.segmentTitles[1] = "Secondary"; ObjectID = "ec6-ku-Y4L"; */
+"ec6-ku-Y4L.segmentTitles[1]" = "Secondary";
+
+/* Class = "UILabel"; text = "Long Vibration Duration"; ObjectID = "flr-YK-Grx"; */
+"flr-YK-Grx.text" = "Long Vibration Duration";
+
+/* Class = "UILabel"; text = "Vibration Setting"; ObjectID = "hjc-UL-D2M"; */
+"hjc-UL-D2M.text" = "Vibration Setting";
+
+/* Class = "UIButton"; normalTitle = "Total"; ObjectID = "igr-q3-42p"; */
+"igr-q3-42p.normalTitle" = "Total";
+
+/* Class = "UISegmentedControl"; j60-Fo-lPQ.segmentTitles[0] = "Audio ON"; ObjectID = "j60-Fo-lPQ"; */
+"j60-Fo-lPQ.segmentTitles[0]" = "Audio ON";
+
+/* Class = "UISegmentedControl"; j60-Fo-lPQ.segmentTitles[1] = "Audio OFF"; ObjectID = "j60-Fo-lPQ"; */
+"j60-Fo-lPQ.segmentTitles[1]" = "Audio OFF";
+
+/* Class = "UIButton"; normalTitle = "Back"; ObjectID = "nkH-7b-sbd"; */
+"nkH-7b-sbd.normalTitle" = "Back";
+
+/* Class = "UILabel"; text = "Short Vibration Duration"; ObjectID = "shY-N3-y5q"; */
+"shY-N3-y5q.text" = "Short Vibration Duration";
+
+/* Class = "UIButton"; normalTitle = "Start Scan"; ObjectID = "ydK-IH-aBm"; */
+"ydK-IH-aBm.normalTitle" = "Start Scan";
+
+/* Class = "UIButton"; normalTitle = "About Us"; ObjectID = "zlH-cu-y4j"; */
+"zlH-cu-y4j.normalTitle" = "About Us";

@@ -1,0 +1,184 @@
+{
+    "images" :
+    [
+     {
+     "image" : "1 Front First Mark.jpeg",
+     "name" : "first"
+     },
+     {
+     "image" : "1 Front Second Mark",
+     "name" : "second"
+     },
+     {
+     "image" : "1 Front Third Mark",
+     "name" : "third"
+     },
+     {
+     "image" : "5 Front First Mark.jpeg",
+     "name" : "first"
+     },
+     {
+     "image" : "5 Front Second Mark.jpeg",
+     "name" : "second"
+     },
+     {
+     "image" : "5 Front Third Mark.jpeg",
+     "name" : "third"
+     },
+     {
+     "image" : "10 Front First Mark.jpeg",
+     "name" : "first"
+     },
+     {
+     "image" : "10 Front Second Mark.jpeg",
+     "name" : "second"
+     },
+     {
+     "image" : "10 Front Third Mark.jpeg",
+     "name" : "third"
+     },
+     {
+     "image" : "20 Front First Mark.jpeg",
+     "name" : "first"
+     },
+     {
+     "image" : "20 Front Second Mark.jpeg",
+     "name" : "second"
+     },
+     {
+     "image" : "20 Front Third Mark.jpeg",
+     "name" : "third"
+     },
+     {
+     "image" : "20.1 Front First Mark.jpeg",
+     "name" : "first"
+     },
+     {
+     "image" : "20.1 Front Second Mark.jpeg",
+     "name" : "second"
+     },
+     {
+     "image" : "20.1 Front Third Mark.jpeg",
+     "name" : "third"
+     },
+     {
+     "image" : "50 Front First Mark.jpeg",
+     "name" : "first"
+     },
+     {
+     "image" : "50 Front Second Mark.jpeg",
+     "name" : "second"
+     },
+     {
+     "image" : "50 Front Third Mark.jpeg",
+     "name" : "third"
+     },
+     {
+     "image" : "100 Front First Mark.jpeg",
+     "name" : "first"
+     },
+     {
+     "image" : "100 Front Second Mark.jpeg",
+     "name" : "second"
+     },
+     {
+     "image" : "100 Front Third Mark.jpeg",
+     "name" : "third"
+     }
+     ]
+}
+
+/*{
+    "images" :
+    [
+     {
+     "image" : "1 Back.jpeg",
+     "name" : "1"
+     },
+     {
+     "image" : "1 Front.jpeg",
+     "name" : "1"
+     },
+     {
+ "image" : "1-2 Front.jpeg",
+ "name" : "1-2"
+     },
+     {
+ "image" : "1-2 Back.jpeg",
+ "name" : "1-2"
+     },
+     {
+     "image" : "1.1 Front.jpeg",
+     "name" : "1"
+     },
+     {
+     "image" : "1.1 Back.jpeg",
+     "name" : "1"
+     },
+     {
+     "image" : "1.2 Back.jpeg",
+     "name" : "1"
+     },
+     {
+     "image" : "1.2 Front.jpeg",
+     "name" : "1"
+     },
+     {
+     "image" : "5 Back.jpeg",
+     "name" : "5"
+     },
+     {
+     "image" : "5 Front.jpeg",
+     "name" : "5"
+     },
+     {
+     "image" : "10 Back.jpeg",
+     "name" : "10"
+     },
+     {
+     "image" : "10 Front.jpeg",
+     "name" : "10"
+     },
+     {
+     "image" : "10.1 Front.jpeg",
+     "name" : "10"
+     },
+     {
+     "image" : "10.1 Back.jpeg",
+     "name" : "10"
+     },
+     {
+     "image" : "20 Back.jpeg",
+     "name" : "20"
+     },
+     {
+     "image" : "20 Front.jpeg",
+     "name" : "20"
+     },
+     {
+     "image" : "50 Back.jpeg",
+     "name" : "50"
+     },
+     {
+     "image" : "50 Front.jpeg",
+     "name" : "50"
+     },
+     {
+     "image" : "100 Back.jpeg",
+     "name" : "100"
+     },
+     {
+     "image" : "100 Front.jpeg",
+     "name" : "100"
+     },
+     {
+     "image" : "500 Back.jpeg",
+     "name" : "500"
+     },
+     {
+     "image" : "500 Front.jpeg",
+     "name" : "500"
+     }
+     ]
+}
+ */

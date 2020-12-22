@@ -1,0 +1,6 @@
+framework module Pods_Qatar_Money_Reader {
+  umbrella header "Pods-Qatar Money Reader-umbrella.h"
+
+  export *
+  module * { export * }
+}
